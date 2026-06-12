@@ -13,6 +13,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 </div>
 
-I am currently working as an Applied AI Intern at [West Shore Home](https://www.westshorehome.com). I am looking to begin contributing to open source projects and growing as an engineer in the AI space. 👋
+Sales Engineer @ [Ciena](https://www.ciena.com/)
+Formerly: AI @ [West Shore Home](https://www.westshorehome.com)
 
 cat courtesy Felix Lee - flee@cse.psu.edu
