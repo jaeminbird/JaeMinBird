@@ -11,10 +11,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 </td></tr></table>
 
+**Currently** Sales Engineer @ [Ciena](https://www.ciena.com/)<br>
+**Formerly** AI @ [West Shore Home](https://www.westshorehome.com) | SWE @ [JiaYou Tennis](https://jiayoutennis.net/)
+
 </div>
-
-Sales Engineer @ [Ciena](https://www.ciena.com/)
-
-**Formerly**
-- AI @ [West Shore Home](https://www.westshorehome.com)
-- SWE @ [JiaYou Tennis](https://jiayoutennis.net/)
